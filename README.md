@@ -1,7 +1,7 @@
-## USO DO TERRAFORM E ANSIBLE PARA CRIAR UMA INSTANCIA NO AWS
+# USO DO TERRAFORM E ANSIBLE PARA CRIAR UMA INSTANCIA NO AWS
 
 
-* Instalações
+## Instalações
 
 ### Instalação do Terraform no MacOS
 	> brew tap hashicorp/tap
@@ -16,7 +16,7 @@
 ### Instalação do AWS CLI
 (https://docs.aws.amazon.com/pt_br/cli/latest/userguide/getting-started-install.html)
 
-* Fazer o primeiro Deploy
+## Fazer o primeiro Deploy
 
 - Criar o arquivo main.tf
 - Executar o seguinte comando para pressionar a máquina 
